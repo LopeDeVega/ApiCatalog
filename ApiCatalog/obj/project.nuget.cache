@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3K6YDD26sYdVNqKdtieThA8jCuh8kjBBhEedypcxmoXoOtIoWMAcgrnFSeGn7WzvDm1JOT+Lr6Q02K6Afa5yQ==",
+  "success": true,
+  "projectFilePath": "A:\\repoA\\APIs\\ApiCatalog\\ApiCatalog\\ApiCatalog\\ApiCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\senti\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\senti\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\senti\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\senti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\senti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
